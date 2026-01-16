@@ -1,4 +1,4 @@
-# 🔦 spotlight_view
+# 🔦 Spotlight View
 
 A lightweight and flexible Flutter package to **highlight any widget**
 (Text, Button, Image, long descriptions, etc.) using a **beautiful spotlight overlay**.
