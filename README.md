@@ -44,9 +44,9 @@ dependencies:
 ### Using GitHub (Recommended during development)
 ```yaml
 dependencies:
-  spotlight_view:
+  flutter_spotlight_view:
     git:
-      url: https://github.com/yourusername/spotlight_view.git
+      url: https://github.com/yourusername/flutter_spotlight_view.git
 ```
 
 ### 🚀 Import
